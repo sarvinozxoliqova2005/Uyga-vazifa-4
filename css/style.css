@@ -1,0 +1,363 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right:auto ;
+    display: block;
+    overflow: hidden;
+}
+header{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+a img{
+    margin-left: 30px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menus li a{
+    text-decoration: none;
+}
+.menus{
+    list-style: none;
+}
+.menus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.btn{
+    width: 165px;
+    height: 65px;
+    font-size: 16px;
+    background-color: #D23166;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+a{
+    color:#150101 ;
+}
+
+
+#hero{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
+    background-color: #F2CEDA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sweet{
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 14px;
+    color: #0F0101;
+    margin-left: 30px;
+}
+.card h1{
+    width: 665px;
+    height: 130px;
+    opacity: 90%;
+    font-size: 57px;
+    line-height: 121%;
+    color: #0F0101;
+   margin-left: 30px;
+}
+.card p{
+    width: 523px;
+    height: 78px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0F0101;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.card button{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D23166;
+    font-size: 16px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+
+
+#portfolio{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.cardlar img{
+    width: 51px;
+    height: 43px;
+}
+.cardlar h3{
+    font-size: 20px;
+    color: #000000;
+    margin-top: 20px;
+}
+.cardlar p{
+    font-size: 14px;
+    line-height: 100%;
+    color: #000000;
+    margin-top: 20px;
+}
+
+
+
+#title{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container{
+    max-width: 1600px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    overflow: hidden;
+}
+.pricing img{
+    max-width: 655px;
+    height: 656px;
+}
+.title-container{
+    background-color:#F8EDF0 ;
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+}
+.pricing h1{
+    font-size: 44px;
+    color: #150101;
+    margin-left: 30px;
+}
+.pricing p{
+    font-size:16px;
+    color:#150101 ;
+    margin-top: 30px;
+    margin-left: 30px;
+    line-height: 24px;
+}
+.pricing button{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    background-color: #D23166;
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+
+#products{
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding: 40px 20px;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+}
+.ice li{
+    list-style: none;
+}
+.ice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+}
+.product-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.product-container img{
+    width: 580px;
+    height: 415px;
+    border-radius: 10px;
+}
+.info h3{
+    font-size: 26px;
+    font-weight: 700;
+    color: #000000;
+}
+.info p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    line-height: 24px;
+    margin-top: 30px;
+}
+.price b{
+    font-size: 26px;
+    color: #000000;
+}
+.del{
+    font-size: 20px;
+    color: #000000;
+    margin-top: 30px;
+}
+.btn{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D23166;
+    color: white;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+
+
+
+#infos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top:80px ;
+    padding-bottom: 80px;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.infos-subtitle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.chocolate h2{
+    font-size: 26px;
+    color: #000000;
+}
+.chocolate p{
+    font-size: 16px;
+    color: #000000;
+    margin-top: 30px;
+line-height: 24px;
+}
+.btn2{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D23166;
+    color: white;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+
+
+
+#sweet{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.sweet-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sweet-corn h2{
+    font-size: 26px;
+    color: #000000;
+}
+.sweet-corn p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin-top: 30px;
+}
+.pricing b{
+    font-size: 26px;
+    color: #000000;
+}
+.pricing del{
+    font-size: 20px;
+    color: #000000;
+}
+.btn2{
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D23166;
+    color: white;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+
+
+#ice-creams{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ice-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.shirinliklar p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
